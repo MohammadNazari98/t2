@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-=======
 *$py.class
->>>>>>> 91f028f877aab03c87a7c34f6f8d4a83a2a98b16
